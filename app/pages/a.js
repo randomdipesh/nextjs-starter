@@ -2,7 +2,7 @@ export default  ()=>{
 	return(
 			
 			<div>
-				Hello from a dd sss, but should be shown on b
+				Hello ss ssfrom a dd sss, but should be shown on b
 			</div>
 
 		)
